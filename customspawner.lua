@@ -1,4 +1,4 @@
--- blueprint.lua on discord
+
 -- WITH INFLUENCER DRAGON INTEGRATION (CUSTOM MODEL)
 -- WITH DRAGONFRUIT EGG (Replaces Frostbite Bear)
 -- WITH "Frost Dragon" changed to "Influencer Rank"
